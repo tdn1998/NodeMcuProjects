@@ -1,1 +1,1 @@
-These are few projects based on ESP8266 Node MCU
+Small Projects based on ESP8266 Node MCU
